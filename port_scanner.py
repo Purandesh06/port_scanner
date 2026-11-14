@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 
-"""
-port_scanner - A simple multithreaded TCP connect scanner.
-Only scan systems you own or have explicit permission to test.
-"""
-
 from __future__ import annotations
 
 import argparse
